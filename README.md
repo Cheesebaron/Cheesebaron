@@ -12,7 +12,8 @@ I help maintain all sorts of .NET mobile projects such as:
 
 [![Blog](https://img.shields.io/badge/blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://blog.ostebaronen.dk)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Cheesebaron)
-[![Mastodon](https://img.shields.io/badge/mastodon-2A8BD2?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@Cheesebaron)
+[![Blue Sky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/ostebaronen.dk)
+[![Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@Cheesebaron)
 [![Donate](https://img.shields.io/badge/💛_donate-f96854.svg?style=for-the-badge)](https://github.com/sponsors/Cheesebaron)
 
 ### Stats
