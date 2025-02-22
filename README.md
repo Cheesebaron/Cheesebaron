@@ -7,6 +7,7 @@ I help maintain all sorts of .NET mobile projects such as:
 - [NukeProxy](https://github.com/roubachof/NukeProxy)
 - [BTProgressHUD](https://github.com/redth-org/BTProgressHUD)
 - [AndHUD](https://github.com/redth-org/AndHUD)
+- [SkiaScene](https://github.com/Cheesebaron/SkiaScene)
 
 ### Connect with me
 
